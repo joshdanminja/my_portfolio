@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb9d958e.chunk.css",
+    "main.js": "/static/js/main.616df0ff.chunk.js",
+    "main.js.map": "/static/js/main.616df0ff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6090be31.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6090be31.js.map",
+    "static/js/2.a7740c50.chunk.js": "/static/js/2.a7740c50.chunk.js",
+    "static/js/2.a7740c50.chunk.js.map": "/static/js/2.a7740c50.chunk.js.map",
+    "static/css/3.8e0add20.chunk.css": "/static/css/3.8e0add20.chunk.css",
+    "static/js/3.7ca974f6.chunk.js": "/static/js/3.7ca974f6.chunk.js",
+    "static/js/3.7ca974f6.chunk.js.map": "/static/js/3.7ca974f6.chunk.js.map",
+    "static/css/4.76034ff0.chunk.css": "/static/css/4.76034ff0.chunk.css",
+    "static/js/4.b27a913d.chunk.js": "/static/js/4.b27a913d.chunk.js",
+    "static/js/4.b27a913d.chunk.js.map": "/static/js/4.b27a913d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bce4cdb1448acdcf6f1a39cdabbcad9b.js": "/precache-manifest.bce4cdb1448acdcf6f1a39cdabbcad9b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.8e0add20.chunk.css.map": "/static/css/3.8e0add20.chunk.css.map",
+    "static/css/4.76034ff0.chunk.css.map": "/static/css/4.76034ff0.chunk.css.map",
+    "static/css/main.cb9d958e.chunk.css.map": "/static/css/main.cb9d958e.chunk.css.map",
+    "static/js/2.a7740c50.chunk.js.LICENSE.txt": "/static/js/2.a7740c50.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/craftszone_store_logo.png": "/static/media/craftszone_store_logo.7f224f7e.png",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/google_it_automation.png": "/static/media/google_it_automation.c8dd2332.png",
+    "static/media/google_it_support.png": "/static/media/google_it_support.c3ea947f.png",
+    "static/media/harvardLogo.png": "/static/media/harvardLogo.35ef5e91.png",
+    "static/media/penetration_testing_incident_response_and_forensics.png": "/static/media/penetration_testing_incident_response_and_forensics.4b3d2076.png",
+    "static/media/python_project_for_ai_and_application_development.png": "/static/media/python_project_for_ai_and_application_development.c6bb435a.png",
+    "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6090be31.js",
+    "static/js/2.a7740c50.chunk.js",
+    "static/css/main.cb9d958e.chunk.css",
+    "static/js/main.616df0ff.chunk.js"
+  ]
+}
