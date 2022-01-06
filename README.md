@@ -15,16 +15,15 @@ Created something awesome for your fork of the portfolio and want to share it? F
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Illustrations](#illustrations)
-- [For the Future](#for-the-future)
 
 ## Portfolio Sections
-✔️ Summary and About me\
+✔️ Summary and About Me\
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work\
-✔️ Open Source Projects (Connected with GitHub)\
-✔️ Projects\
-✔️ Certifications 🏆\
+✔️ Projects (Connected with GitHub)\
+✔️ Big Projects\
+✔️ Certifications\
 ✔️ Contacts\
 
 To view a live example, **[click here](https://joshuaminja.ml/)**.
@@ -114,8 +113,6 @@ If you are seeing something as shown below, follow these [instructions](https://
 const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi, I'm Joshua",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
 const socialMediaLinks = {
@@ -123,7 +120,7 @@ const socialMediaLinks = {
   github: "https://github.com/joshuaminja",
   linkedin: "https://www.linkedin.com/in/joshuaminja/",
   gmail: "joshuaminja5@gmail.com",
-  facebook: "https://www.facebook.com/joshuaminja"
+  facebook: "https://www.facebook.com/joshuaminja",
 };
 
 
@@ -151,10 +148,6 @@ const twitterDetails = { ... }
 
 For adding emoji 😃 into the texts in `portfolio.js`, use the `emoji()` function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms.
 
-#### Customize Lottie Animations
-
-You can choose a Lottie and download it in json format from from sites like [this](https://lottiefiles.com/). In `src/assets/lottie`, replace the Lottie json file you want to alter with the same file name. If you want to change the Lottie options, go to `src/components/displayLottie/DisplayLottie.js` and change the `defaultOptions` object, you can refer [react-lottie docs](https://www.npmjs.com/package/react-lottie) for more info on the `defaultOptions` object.
-
 ## Deployment
 When you are done with the setup, you should host your website online.
 We highly recommend to read through the [Deploying on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) docs for React.
@@ -178,14 +171,6 @@ This section guides you to deploy your portfolio on GitHub pages.
 
 - Follow through the guide to setup GitHub pages from the official CRA docs [here](https://create-react-app.dev/docs/deployment/#github-pages).
 
-#### Deploying to Netlify
-
-You could also host directly with Netlify by linking your own repository.
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saadpasta/developerFolio)
-
-For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
-
 
 ## Technologies Used 
 
@@ -199,4 +184,3 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 
 ## Illustrations
 - [UnDraw](https://undraw.co/illustrations)
-- [Lottie by Oblikweare](https://lottiefiles.com/oblikweare)
