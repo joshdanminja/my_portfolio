@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c425c49.chunk.css",
-    "main.js": "/static/js/main.7359271b.chunk.js",
-    "main.js.map": "/static/js/main.7359271b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8208f1ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8208f1ca.js.map",
-    "static/js/2.6ae4328c.chunk.js": "/static/js/2.6ae4328c.chunk.js",
-    "static/js/2.6ae4328c.chunk.js.map": "/static/js/2.6ae4328c.chunk.js.map",
+    "main.css": "/static/css/main.f5bd772e.chunk.css",
+    "main.js": "/static/js/main.ba6a9627.chunk.js",
+    "main.js.map": "/static/js/main.ba6a9627.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bec429b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bec429b.js.map",
+    "static/js/2.2f484383.chunk.js": "/static/js/2.2f484383.chunk.js",
+    "static/js/2.2f484383.chunk.js.map": "/static/js/2.2f484383.chunk.js.map",
     "static/css/3.f9e14802.chunk.css": "/static/css/3.f9e14802.chunk.css",
-    "static/js/3.52559622.chunk.js": "/static/js/3.52559622.chunk.js",
-    "static/js/3.52559622.chunk.js.map": "/static/js/3.52559622.chunk.js.map",
+    "static/js/3.b3854867.chunk.js": "/static/js/3.b3854867.chunk.js",
+    "static/js/3.b3854867.chunk.js.map": "/static/js/3.b3854867.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.548479cc2e562d7f9da673891e3477ab.js": "/precache-manifest.548479cc2e562d7f9da673891e3477ab.js",
+    "precache-manifest.e9c2175c1c639532bd4990f3e4f2c0a9.js": "/precache-manifest.e9c2175c1c639532bd4990f3e4f2c0a9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.f9e14802.chunk.css.map": "/static/css/3.f9e14802.chunk.css.map",
-    "static/css/main.1c425c49.chunk.css.map": "/static/css/main.1c425c49.chunk.css.map",
-    "static/js/2.6ae4328c.chunk.js.LICENSE.txt": "/static/js/2.6ae4328c.chunk.js.LICENSE.txt",
+    "static/css/main.f5bd772e.chunk.css.map": "/static/css/main.f5bd772e.chunk.css.map",
+    "static/js/2.2f484383.chunk.js.LICENSE.txt": "/static/js/2.2f484383.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/craftszone_store_logo.png": "/static/media/craftszone_store_logo.7f224f7e.png",
     "static/media/google_it_automation.png": "/static/media/google_it_automation.c8dd2332.png",
     "static/media/hong_kong_university.png": "/static/media/hong_kong_university.526261a5.png",
-    "static/media/iab_digital_marketing.png": "/static/media/iab_digital_marketing.d0f02490.png",
-    "static/media/international_business_machine.png": "/static/media/international_business_machine.a25ef407.png",
     "static/media/joshua_daniel_minja_developer_on_server_illustration.svg": "/static/media/joshua_daniel_minja_developer_on_server_illustration.bf8b96c1.svg",
     "static/media/joshua_minja.jpg": "/static/media/joshua_minja.8cd5e5ee.jpg",
     "static/media/mamboleo_digital.png": "/static/media/mamboleo_digital.ae3ef4d9.png",
@@ -30,13 +28,12 @@
     "static/media/singo_africa.png": "/static/media/singo_africa.8e71532c.png",
     "static/media/ucc_logo.png": "/static/media/ucc_logo.c2270d67.png",
     "static/media/udsm_logo.png": "/static/media/udsm_logo.5ec8cb7c.png",
-    "static/media/university_of_california.png": "/static/media/university_of_california.b3ad81ca.png",
-    "static/media/university_of_irvine.png": "/static/media/university_of_irvine.9f506edc.png"
+    "static/media/university_of_california.png": "/static/media/university_of_california.b3ad81ca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8208f1ca.js",
-    "static/js/2.6ae4328c.chunk.js",
-    "static/css/main.1c425c49.chunk.css",
-    "static/js/main.7359271b.chunk.js"
+    "static/js/runtime-main.3bec429b.js",
+    "static/js/2.2f484383.chunk.js",
+    "static/css/main.f5bd772e.chunk.css",
+    "static/js/main.ba6a9627.chunk.js"
   ]
 }
